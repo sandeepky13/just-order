@@ -1,0 +1,6 @@
+{
+  "name": "Just Order",
+  "description": "A production-ready full-stack e-commerce experience with an Elegant Dark dashboard, instant products checkout, real-time metrics, search analytics, and interactive admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
